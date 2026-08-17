@@ -1,0 +1,29 @@
+{
+  "_readme": "=== COMO AGREGAR PENSAMIENTOS === // HOW TO ADD THOUGHTS ===",
+  "_instrucciones_es": "Copia el ultimo bloque entre llaves y pegalo antes del corchete de cierre final. Cambia la fecha, titulos y extractos. NO borres las comas entre bloques.",
+  "_instructions_en": "Copy the last block inside curly braces and paste it before the final closing bracket. Change the date, titles, and excerpts. DO NOT delete the commas between blocks.",
+  "_ejemplo": "Ejemplo/Example: { "date": "2025-08-20", "titleEs": "Mi titulo", "titleEn": "My title", "excerptEs": "Texto en español...", "excerptEn": "English text..." }",
+  "posts": [
+    {
+      "date": "2025-08-10",
+      "titleEs": "El poder de escuchar",
+      "titleEn": "The power of listening",
+      "excerptEs": "En un mundo que grita constantemente, escuchar se ha convertido en un acto revolucionario. Ubuntu nos enseña que el silencio compartido es tan valioso como las palabras.",
+      "excerptEn": "In a world that constantly shouts, listening has become a revolutionary act. Ubuntu teaches us that shared silence is as valuable as words."
+    },
+    {
+      "date": "2025-08-03",
+      "titleEs": "La sabiduría de la comunidad",
+      "titleEn": "The wisdom of community",
+      "excerptEs": "Ningún árbol crece solo en el bosque. Sus raíces se entrelazan bajo tierra, compartiendo nutrientes, agua y fuerza. Así somos nosotros.",
+      "excerptEn": "No tree grows alone in the forest. Their roots intertwine underground, sharing nutrients, water, and strength. So are we."
+    },
+    {
+      "date": "2025-07-27",
+      "titleEs": "Poder sin sabiduría",
+      "titleEn": "Power without wisdom",
+      "excerptEs": "El poder sin sabiduría es como un río sin cauce: destruye todo a su paso. Ubuntu nos invita a canalizar nuestra fuerza hacia el bien común.",
+      "excerptEn": "Power without wisdom is like a river without a channel: it destroys everything in its path. Ubuntu invites us to channel our strength toward the common good."
+    }
+  ]
+}
